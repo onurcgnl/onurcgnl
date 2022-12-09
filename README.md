@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif%22%3E]](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif)(https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://media-exp1.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk)">
+<img align="right" alt="Coding" width="400" src=
+"https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurcgnl&label=Profile%20views&color=0e75b6&style=flat" alt="onurcgnl" /> </p>
 
 - 🔭 I’m currently working on **React**
